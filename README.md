@@ -1,3 +1,4 @@
 # gitTutorial
 
-to nowa linia2
+to nowa linia
+a to jeszcze nowsza
